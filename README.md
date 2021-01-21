@@ -28,9 +28,9 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 - **Bash**
   - [Bash.ID](https://t.me/bashidorg)
-- **Boostrap**
+- **Bootstrap**
 
-  - [Boostrap Indonesia](https://t.me/bootstrap_id)
+  - [Bootstrap Indonesia](https://t.me/bootstrap_id)
 
 - **C/C++**
 
@@ -47,6 +47,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Flutter Indonesia](https://t.me/flutter_id)
   - [Flutter Jakarta](https://t.me/flutter_jkt)
   - [Flutter Makassar](https://t.me/fluttermakassar)
+  - [Lombok Flutter](https://t.me/lombokflutter)
 
 - **Elixir**
 
@@ -188,6 +189,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Cloud Computing Services
 
+- [#JuaraGCP](https://t.me/JuaraGCP)
 - [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
 - [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
 - [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
@@ -197,14 +199,15 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Artificial Intelligence Indonesia](https://t.me/ArtificialIntelligence_Indonesia)
 - [Asosiasi Ilmuwan Data Indonesia (AIDI)](https://t.me/aidindonesia)
 - [Big Data Official Group](https://t.me/idbigdata)
-- [Block Chain Indonesia](https://t.me/blockChain_ID)
 - [Business Intelligence Indonesia](https://t.me/businessintelligenceID)
 - [Data Scientist Indonesia](https://t.me/datascienceindonesia)
 - [Machine Learning Indonesia](https://t.me/machinelearningid)
-- [ScrapeID](https://t.me/ScrapeID)
-- [Trading Bitcoin](https://t.me/noobitcoin)
+- [Machine Learning ID Lombok](https://t.me/machinelearninglombok)
 - [Natural Language ID](https://t.me/nlp_lounge)
+- [PyTorch Indonesia](https://t.me/pytorchid)
+- [ScrapeID](https://t.me/ScrapeID)
 - [TensorFlow Indonesia](https://t.me/tensorflowid)
+- [Trading Bitcoin](https://t.me/noobitcoin)
 
 ### Development
 
@@ -217,7 +220,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Bot Telegram API](https://t.me/TgBotID)
 - [Cilegon Developer](https://t.me/cilegondev)
 - [CirebonDev](https://t.me/crbdev)
-- [Pecinta CSS Tools Indonesia](https://t.me/css_tools_id)
 - [Femalegeek](https://t.me/femalegeek)
 - [Free Kelas Github](https://t.me/freekelasgithub)
 - [Frontend Developer Indonesia](https://t.me/FrontEndID)
@@ -227,6 +229,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Info Event Teknologi](https://t.me/eventteknologi)
 - [IT Nusantara](https://t.me/ITNusantara)
 - [JemberDev](https://t.me/DjemberDev)
+- [Kabayan Coding](https://t.me/kabayan_coding)
 - [Kelas Mobile Malang](https://t.me/KelasMobileMalang)
 - [Komunitas Backend Developer](https://t.me/BackEndID)
 - [Komunitas Belajar Koding](https://t.me/komunitasbk)
@@ -234,7 +237,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Kongkow IT Pekanbaru](https://t.me/kongkowITpekanbaru)
 - [Kotakode](https://t.me/kotakodebetachat)
 - [Lombok Developer Meetup](https://t.me/lombokdevmeetup)
-- [Ngobrol IT](https://t.me/joinchat/DVmd_UGNxYgkrJlmLhX4Hw)
 - [Odoo - OpenERP Indonesia](https://t.me/odooindonesia)
 - [Pasuruan Dev](https://t.me/pasuruandev)
 - [Programmer Semarang Raya](https://t.me/programersemarangraya)
@@ -244,15 +246,19 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [Sidoarjo Dev](https://t.me/sidoarjodev)
 - [SinauDev - Sinau Development](https://t.me/sinaudev)
 - [Software Engineer Indonesia](https://t.me/soft_eng_id)
+- [SparkAR Indonesia](https://t.me/sparkarindonesia)
 - [Surabaya Dev](https://t.me/surabayadev)
 - [LamonganDev](https://t.me/lamongandev)
 - [Taman Kode-Kode](https://t.me/tamankodekode)
 - [Tailwind Indonesia](https://t.me/TailwindID)
 - [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
+- [UI/UX Indonesia](https://t.me/UiuxIndo)
+- [UXiD Lombok](https://t.me/uxidlombok)
 - [Vim Indonesia](https://t.me/VimID)
 - [W3ID - WWWID PWA](https://t.me/wwwid_pwa)
 - [WordPress](https://t.me/idwordpress)
 - [Channel Otodidak Pemrograman](https://t.me/otodidak_ngoding)
+- [Kulkul.tech Community - Meetup and Dev Community](https://t.me/kulkultech)
 
 ### Microservice
 
